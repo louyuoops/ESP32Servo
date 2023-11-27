@@ -1,3 +1,6 @@
+# WARNING!!!!
+this branch enable 360 degree servo with a stupid way, PLZ Refer with caution
+
 # Servo Library for ESP32
 
 This library attempts to faithfully replicate the semantics of the
